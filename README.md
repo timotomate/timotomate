@@ -2,11 +2,12 @@
 
 ### Tools
 - Highly interested in data, finanace
-[![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
-[![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)](https://www.vmware.com/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)
+
+- [![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+- [![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+- [![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)](https://www.vmware.com/)
+- [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+- [![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)
 
 <!--
 </div>
