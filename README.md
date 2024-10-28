@@ -1,8 +1,9 @@
-## The Engineer 👋
+## The Engineer
 
 ### Tools & Technologies
-
 [![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=flat&logo=google-cloud&logoColor=white)
+
 
 <!--
 **timotomate/timotomate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
