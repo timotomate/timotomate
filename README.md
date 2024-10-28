@@ -1,6 +1,4 @@
-### 🔭![image](https://github.com/user-attachments/assets/a5f12875-c90c-4d5c-b7b6-a1a7ce7323e9)
- The Engineer
-
+### 🔭 The Engineer
 ### Tools
 [![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 [![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
