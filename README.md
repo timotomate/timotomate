@@ -1,6 +1,8 @@
-## Hi there 👋
+## The Engineer 👋
 
-[![Timo's github stats](https://github-readme-stats.vercel.app/api?username=timotomate)](https://github.com/anuraghazra/github-readme-stats)
+### Tools & Technologies
+
+[![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 
 <!--
 **timotomate/timotomate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
